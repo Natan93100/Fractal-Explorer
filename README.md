@@ -40,7 +40,7 @@ deriving key model parameters (slope and intercept), and applying the model for 
 If you are not familiar with linear regression please click [here](https://en.wikipedia.org/wiki/Linear_regression)<br>
 <img src="https://github.com/Natan93100/SQL_Project_2024/blob/main/Scatter%20Chart.png" alt="Alt text" width="350" height="250"><br>
 
-### [Fractal Explorer with Mandelbrot and Julia Set Visualizations<br>]
+### [Fractal Explorer with Mandelbrot and Julia Set Visualizations<br>](https://github.com/Natan93100/Coding/blob/main/Fractal%20Explorer%20with%20Mandelbrot%20and%20Julia%20Set%20Visualizations.py)
 
 
 ### C
