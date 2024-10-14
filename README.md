@@ -26,6 +26,8 @@ Besides my acadmic knowledge and tools, I also have a proffesional background in
 
 ### PYTHON
 ### [Linear Regression Predictive Model<br>](https://github.com/Natan93100/SQL_Project_2024/blob/main/Python/Linear%20Regression%20Model.py)
+If you are not familiar with linear regression please click [here](https://en.wikipedia.org/wiki/Linear_regression)<br>
+
 
 **Goal:**<br>
 The goal of this project is to predict the dependent variable based on changes in the independent variable by fitting
@@ -37,10 +39,24 @@ By calculating the slope and intercept, the model captures the linear relationsh
 This custom implementation demonstrates fundamental machine learning skills, including data handling with NumPy,
 deriving key model parameters (slope and intercept), and applying the model for prediction.
 
-If you are not familiar with linear regression please click [here](https://en.wikipedia.org/wiki/Linear_regression)<br>
 <img src="https://github.com/Natan93100/SQL_Project_2024/blob/main/Scatter%20Chart.png" alt="Alt text" width="350" height="250"><br>
 
 ### [Fractal Explorer with Mandelbrot and Julia Set Visualizations<br>](https://github.com/Natan93100/Coding/blob/main/Fractal%20Explorer%20with%20Mandelbrot%20and%20Julia%20Set%20Visualizations.py)
+If you are not familiar with fractals please click [here](https://en.wikipedia.org/wiki/Fractal)<br>
+
+
+**Goal:**<br>
+The primary goal of this project is to provide an interactive tool to generate, visualize, and explore fractals
+Users will be able to:
+Visualize these famous fractals with an intuitive graphical interface.
+Analyze the mathematical properties of the fractals, such as escape times and iteration counts.
+Zoom into specific regions of the fractals to explore their infinite detail and beauty.
+
+**Description:**<br>
+This Python project revolves around generating and visualizing complex fractals, primarily focusing on the Mandelbrot and Julia sets.
+Fractals are infinitely complex patterns that repeat at various scales and are often found in natural phenomena.
+These fractals are visual representations of sets of points in the complex plane where, after many iterations, the points either escape to infinity or remain bounded.
+
 
 
 ### C
