@@ -38,9 +38,10 @@ This custom implementation demonstrates fundamental machine learning skills, inc
 deriving key model parameters (slope and intercept), and applying the model for prediction.
 
 If you are not familiar with linear regression please click [here](https://en.wikipedia.org/wiki/Linear_regression)<br>
-
-
 <img src="https://github.com/Natan93100/SQL_Project_2024/blob/main/Scatter%20Chart.png" alt="Alt text" width="350" height="250"><br>
+
+### [Fractal Explorer with Mandelbrot and Julia Set Visualizations<br>]
+
 
 ### C
 ### [Longest Continuous Sequence In Array](https://github.com/Natan93100/SQL_Project_2024/blob/main/Longest%20Sequence/main.c)
