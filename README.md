@@ -22,6 +22,7 @@ Besides my acadmic knowledge and tools, I also have a proffesional background in
 
 - Python
   - [Linear Regression Predictive Model](Linear-Regression-Predictive-Model)
+  - [Fractal Explorer with Mandelbrot and Julia Set Visualizations](Fractal-Explorer-with-Mandelbrot-and-Julia-Set-Visualizations)
 
 ### PYTHON
 ### [Linear Regression Predictive Model<br>](https://github.com/Natan93100/SQL_Project_2024/blob/main/Python/Linear%20Regression%20Model.py)
