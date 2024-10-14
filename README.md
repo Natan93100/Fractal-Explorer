@@ -57,6 +57,7 @@ This Python project revolves around generating and visualizing complex fractals,
 Fractals are infinitely complex patterns that repeat at various scales and are often found in natural phenomena.
 These fractals are visual representations of sets of points in the complex plane where, after many iterations, the points either escape to infinity or remain bounded.
 
+<img src="https://github.com/Natan93100/Python-Projects/blob/main/61c2b468-fccc-4120-9a30-33743b1ed1da.png" alt="Alt text" width="350" height="250"><br>
 
 
 ### C
