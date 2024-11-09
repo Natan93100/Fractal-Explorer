@@ -14,8 +14,10 @@ Besides my acadmic knowledge and tools, I also have a proffesional background in
 - **Statistics**: Hypothesis testing, regression analysis, and probability
 
 
-# [Fractal Explorer with Mandelbrot and Julia Set Visualizations<br>](https://github.com/Natan93100/Coding/blob/main/Fractal%20Explorer%20with%20Mandelbrot%20and%20Julia%20Set%20Visualizations.py)
+# Fractal Explorer with Mandelbrot and Julia Set Visualizations<br>
 If you are not familiar with fractals please click [here](https://en.wikipedia.org/wiki/Fractal)<br>
+
+for the code click [her](https://github.com/Natan93100/Coding/blob/main/Fractal%20Explorer%20with%20Mandelbrot%20and%20Julia%20Set%20Visualizations.py)
 
 
 **Goal:**<br>
