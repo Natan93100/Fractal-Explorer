@@ -60,21 +60,6 @@ These fractals are visual representations of sets of points in the complex plane
 <img src="https://github.com/Natan93100/Python-Projects/blob/main/61c2b468-fccc-4120-9a30-33743b1ed1da.png" alt="Alt text" width="350" height="250"><br>
 
 
-### C
-### [Longest Continuous Sequence In Array](https://github.com/Natan93100/SQL_Project_2024/blob/main/Longest%20Sequence/main.c)
 
-**Goal:**<br>
-The goal of this C program is to find the longest sequence of continuous even numbers in an array.
-The program identifies sequences where even numbers follow each other with a difference of 2 and outputs the longest such sequence.
-
-**Logic:**<br>
-The program iterates through the array and checks for even numbers.
-If a number is even and the difference between it and the next number is exactly 2, it is considered part of the sequence.
-The program keeps track of the length of each sequence.
-The longest sequence is printed out, and if no sequence is found, it outputs a message indicating that.
-
-**Edge Occurences:**
-1. If no even sequence is found, the program prints "No even sequence in the array."
-2. If only one even number is found, it prints the number.
 
 
